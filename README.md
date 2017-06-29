@@ -1,1 +1,2 @@
-# Automatic-Text-Summariser-Squeeze-
+# Automatic-Text-Summariser(Squeeze)
+Project by -Prasad Patil and Nikhil Londhe

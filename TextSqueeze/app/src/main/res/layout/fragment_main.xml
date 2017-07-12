@@ -36,9 +36,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#ededed"
+        android:layout_alignBaseline="@id/CamBtn"
         android:id="@+id/Edtxt"
-        android:hint="Enter Text Here..."
-        android:gravity="center_horizontal"
         android:layout_below="@id/CamBtn"/>
 
 
